@@ -23,4 +23,10 @@
     Estudando atualmente: Android com Kotlin
     Trabalho atualmente com: desenvolvimento de perfis para chips de cartões debito e crédito bandeirado e como consultor técnico. 
   </p>
+    <p>
+    Estudando atualmente: Android com Kotlin
+  </p>
+  <p>
+    Trabalho atualmente com: desenvolvimento de perfis para chips de cartões debito e crédito bandeirado e como consultor técnico. 
+  </p>
 </div>
