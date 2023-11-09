@@ -17,3 +17,10 @@
     <a href="https://twitter.com/Ediiwo" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:edijanio.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<div>
+  <p>
+    Estava um bom tempo sem desenvolver, para focar em meu trabalho atual. Resolvi voltar com algumas ideias de aplicativos Android para praticar e colocar na play store.
+    Estudando atualmente: Android com Kotlin
+    Trabalho atualmente com: desenvolvimento de perfis para chips de cartões debito e crédito bandeirado e como consultor técnico. 
+  </p>
+</div>
