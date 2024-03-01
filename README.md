@@ -1,4 +1,4 @@
-## Olá! Prazer, sou Edijanio, mais conhecido como Edi. Consultor técnico e analista de sistemas. 
+## Olá! Prazer, sou Edijanio, mais conhecido como Edi. Desenvolvedor Mobile Android e React Native. 
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edijaniosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,14 +19,9 @@
 </div>
 <div>
   <p>
-    Estava um bom tempo sem desenvolver, para focar em meu trabalho atual. Resolvi voltar com algumas ideias de aplicativos Android para praticar e colocar na play store.
-    Estudando atualmente: Android com Kotlin
-    Trabalho atualmente com: desenvolvimento de perfis para chips de cartões debito e crédito bandeirado e como consultor técnico. 
+    Atualmente estou focado em projetos mobile alguns com desenvolvimento nativo Android e outros hibrido com React Native. Em busca da primeira oportunidade para trabalhar com Mobile. Enquanto a vaga não vem tenho realizado alguns trabalhos freelancer.  
   </p>
     <p>
-    Estudando atualmente: Android com Kotlin
-  </p>
-  <p>
-    Trabalho atualmente com: desenvolvimento de perfis para chips de cartões debito e crédito bandeirado (técnologias privadas) e consultor técnico. 
+    Estudando atualmente: Android com Kotlin e React Native (Typescript)
   </p>
 </div>
