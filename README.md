@@ -13,6 +13,6 @@
 </div>
 <div>
   <p>
-    Atuo como desenvolvedor android e amo jogar wowzinho
+    Atuo como desenvolvedor android Kotlin 
   </p>
 </div>
